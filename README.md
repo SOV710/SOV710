@@ -1,6 +1,6 @@
 # Here's SOV710 👋
 
-Fuck everyone. Ahhhhhhhhh
+Visual Novel is True ART. The best creature of human beings.
 
 ## Open Source Comtributions
 
