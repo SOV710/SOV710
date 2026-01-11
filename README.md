@@ -1,5 +1,7 @@
 # Here's SOV710 👋
 
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
 Visual Novel is True ART. The best creature of human beings.
 
 ## Open Source Comtributions
