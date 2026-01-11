@@ -1,6 +1,6 @@
 # Here's SOV710 👋
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/coverage-95%25-orange)
 
 Visual Novel is True ART. The best creature of human beings.
 
